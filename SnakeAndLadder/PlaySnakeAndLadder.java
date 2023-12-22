@@ -1,7 +1,7 @@
 // ----------------------------------------------------- 
 // Assignment 3 
 // Question: Includes part I and part II 
-// Written by: Francis Méthot (0532254), Peng Yang () and Yan Deng ()
+// Written by: Francis Méthot (0532254), Peng Yang (2298165) and Yan Deng ()
 // ----------------------------------------------------- 
 
 package SnakeAndLadder;
